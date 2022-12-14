@@ -1,0 +1,29 @@
+.title{
+    background-color: lightblue;
+
+}
+h4{
+    margin: 0px;
+}
+i{
+    margin: 0px;
+}
+h2.education{
+    color: cornflowerblue;
+    margin: 0px;
+}
+.looking{
+    font-weight: normal;
+
+}
+h2.work{
+    color: cornflowerblue;
+    margin: 0px;
+}
+h3.personal{
+    font-weight: normal;
+}
+h3.references{
+    margin: 0px;
+    color: cadetblue;
+}
